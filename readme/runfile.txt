@@ -1,0 +1,3 @@
+go to sfml-proj
+open in terminal
+run command: "mingw32-make -f MakeFile"
